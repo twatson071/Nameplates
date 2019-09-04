@@ -1,0 +1,1 @@
+SetCVar("nameplateMaxDistance", "6e1")

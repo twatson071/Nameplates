@@ -1,0 +1,6 @@
+## Interface: 11302
+## Title: Nameplates
+## Author: Thomas Watson
+## Notes: Sets a far distance for nameplates to show up
+
+Nameplates.lua
